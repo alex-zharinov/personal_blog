@@ -42,7 +42,7 @@ SECRET_KEY=SUP3R-S3CR3T-K3Y-F0R-MY-PR0J3CT
 ```
 Создать БД:
 ```
-python3 yatube/manage.py migrate
+python3 blog/manage.py migrate
 ```
 Запустить проект:
 ```
